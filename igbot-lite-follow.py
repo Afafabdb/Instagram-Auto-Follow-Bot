@@ -6,8 +6,8 @@ from random import randint
 import pathlib
 
 follow_username = ["instagram", "spacewitchix", "official_pepe"]
-username = "USERNAME"
-password = "PASSWORD"
+username = "___gaming.hub"
+password = "Adarsh9527"
 
 def login():
 	#Accept cookie popup
